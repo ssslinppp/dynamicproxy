@@ -1,4 +1,4 @@
-package com.ssslinppp.dynamicproxy.proxy;
+﻿package com.ssslinppp.dynamicproxy.proxy;
 
 import com.ssslinppp.dynamicproxy.annotation.ClassAnnotation;
 import com.ssslinppp.dynamicproxy.annotation.ParamAnnotation;
@@ -18,14 +18,6 @@ import java.lang.reflect.Proxy;
 import java.util.LinkedHashMap;
 import java.util.Set;
 
-/**
- * Description：<br/>
- * User: liulin <br/>
- * Date: 2017/9/22 <br/>
- * Time: 11:36 <br/>
- * Email: liulin@cmss.chinamobile.com <br/>
- * To change this template use File | Settings | File Templates.
- */
 @Component
 public class DynamicProxyInit {
 

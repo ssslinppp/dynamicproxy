@@ -9,14 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.HashMap;
 
-/**
- * Description：<br/>
- * User: liulin <br/>
- * Date: 2017/9/22 <br/>
- * Time: 12:32 <br/>
- * Email: liulin@cmss.chinamobile.com <br/>
- * To change this template use File | Settings | File Templates.
- */
 @RestController
 @RequestMapping("/proxy")
 public class TestController {

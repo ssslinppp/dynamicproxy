@@ -10,14 +10,6 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import java.util.HashMap;
 
-/**
- * Description：<br/>
- * User: liulin <br/>
- * Date: 2017/9/22 <br/>
- * Time: 12:37 <br/>
- * Email: liulin@cmss.chinamobile.com <br/>
- * To change this template use File | Settings | File Templates.
- */
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringBootTest(classes = DynamicproxyApplication.class, webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 public class IDemoOneTest {
